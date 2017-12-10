@@ -1,2 +1,1 @@
-changes on the master
-changes on feature branch
+new title for rebase feature
